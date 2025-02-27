@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [My Personal Portfolio](https://github.com/Sdev237/myPortfolio)
 
-- 🌱 I’m currently learning **NextJs && .NET Core**
+- 🌱 I’m currently learning **.NET Core**
 
-- 💬 Ask me about **Reactjs, TailwindCss, Php, C#, Cyber Security, Network administration(basic concept)**
+- 💬 Ask me about **Reactjs, Next.js, Node.js, Express, TypeScript, Javascript, TailwindCss, Php, C#, Cyber Security, Network administration(basic concept)**
 
 - 📫 How to reach me **sdevsap@gmail.com**
 
