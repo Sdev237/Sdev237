@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **.NET Core**
 
-- 💬 Ask me about **Reactjs, Next.js, Node.js, Express, TypeScript, Javascript, TailwindCss, Php, C#, Cyber Security, Network administration(basic concept)**
+- 💬 Ask me about **Reactjs, Next.js, Node.js, Express, TypeScript, Javascript, TailwindCss, Python, PowerShell, Cyber Security**
 
 - 📫 How to reach me **sdevsap@gmail.com**
 
