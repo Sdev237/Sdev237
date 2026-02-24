@@ -3,7 +3,8 @@
 
 - 🔭 I’m currently working on [My Personal Portfolio](https://github.com/Sdev237/myPortfolio)
 
-- 🌱 I’m currently learning **.NET Core**
+- 🌱Backend Developer Enthusiast – Specialized in .NET & ASP.NET Core  
+I enjoy building scalable, secure and maintainable backend systems, with a strong focus on clean architecture and performance
 
 - 💬 Ask me about **Reactjs, Next.js, Node.js, Express, TypeScript, Javascript, TailwindCss, Python, PowerShell, Cyber Security**
 
