@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm JEDEON SAP LONTCHI</h1>
 <h3 align="center">Full Stack developer</h3>
 
-- 🔭 I’m currently working on [My Personal Portfolio](https://github.com/Sdev237/myPortfolio)
+- <--🔭 I’m currently working on [My Personal Portfolio](https://github.com/Sdev237/myPortfolio)--/>
+  
+- 🌱 I’m currently working on: A SaaS Sales & Inventory Management System built with .NET 8 and React
+
+- 🚀 Current Focus: Implementing multi-tenancy architecture and preparing the data layer for an AI-driven predictive analytics module
 
 - 🟣Backend Developer Enthusiast – Specialized in .NET & ASP.NET Core  
 I enjoy building scalable, secure and maintainable backend systems, with a strong focus on clean architecture and performance
