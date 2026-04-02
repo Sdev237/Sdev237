@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm JEDEON SAP</h1>
+<h1 align="center">Hi 👋, I'm JEDEON SAP LONTCHI</h1>
 <h3 align="center">Full Stack developer</h3>
 
 - 🔭 I’m currently working on [My Personal Portfolio](https://github.com/Sdev237/myPortfolio)
